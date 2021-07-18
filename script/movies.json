@@ -1,0 +1,33 @@
+let movies = `[
+    {
+        "title": "Fellowship of the ring",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/lotr.jpeg",
+        "likes": 34
+    },{
+        "title": "The Two Towers",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/lotr2.jpeg",
+        "likes": 56
+    },{
+        "title": "Return of the King",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/lotr3.jpeg",
+        "likes": 98
+    },{
+        "title": "Hobbit 1",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/hobbit1.jpeg",
+        "likes": 23
+    },{
+        "title": "Hobbit 2",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/hobbit2.jpg",
+        "likes": 11
+    },{
+        "title": "Hobbit 3",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "image": "img/hobbit3.jpeg",
+        "likes": 37
+    }
+]`
